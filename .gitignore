@@ -1,0 +1,6 @@
+*.ok
+**/__pycache__
+.ok_[a-z]
+.ok_storage.bak
+.ok_storage.dat
+.ok_storage.dir
